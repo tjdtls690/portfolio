@@ -19,8 +19,6 @@
 ### 1. [Salad It](http://ec2-13-125-186-247.ap-northeast-2.compute.amazonaws.com/lastSalad/main.do)
 >건강식 품목별 판매 서비스 (팀 프로젝트)  
 >개발 기간: 2022.2.18 ~ 2022.3.30
->
->[포트폴리오 PDF 자료 미리보기](/Team_Project(Salad_It).pdf)
 >  
 >기술 스택:  
 >Java 8 / Spring Framework / MySQL / Mybatis / BootStrap / SQLDeveloper
@@ -33,8 +31,6 @@
 ### 2. Story Chatting Program
 >NIO non-blocking 통신 기반 채팅 프로그램  (개인 프로젝트)  
 >개발 기간: 2021.12.1 ~ 2021.12.9
->
->[포트폴리오 PDF 자료 미리보기](/Toy_Project(신준혁).pdf)
 >  
 >기술 스택:  
 >Java 8 / Oracle Database / Java FX / SceneBuilder
