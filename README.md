@@ -10,7 +10,7 @@
 
 </br>
 
-![](https://tjdtls690.github.io/assets/img/github_img/main_erd.PNG)
+![](https://tjdtls690.github.io/assets/img/github_img/sub_erd.PNG)
 
 ## :pushpin: Contact
 - 이메일: tjdtls690@gmail.com
