@@ -16,7 +16,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [Salad it](http://ec2-13-125-186-247.ap-northeast-2.compute.amazonaws.com/lastSalad/main.do)
+### 1. [Salad It](http://ec2-13-125-186-247.ap-northeast-2.compute.amazonaws.com/lastSalad/main.do)
 >고퀄리티 개발 컨텐츠 공유 서비스 (개인 프로젝트)  
 >개발 기간: 2019.2.18 ~ 2019.4.5  
 >  
