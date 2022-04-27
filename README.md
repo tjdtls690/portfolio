@@ -23,9 +23,9 @@
 >개발 기간: 2022.2.18 ~ 2022.3.30
 >  
 >기술 스택:  
->Java 8 / Spring Framework / MySQL / Mybatis /  SQLDeveloper
+>Java 8 / Spring Framework / MySQL / Mybatis /  SQLDeveloper / mobaxterm
 >
->HTML / CSS / JQuery / JSON / BootStrap / mobaxterm
+>HTML / CSS / JQuery / JSON / BootStrap
 >  
 >[프로젝트 상세 설명](https://github.com/tjdtls690/mainProject) 참고
 
