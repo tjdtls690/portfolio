@@ -23,7 +23,7 @@
 >개발 기간: 2022.2.18 ~ 2022.3.30
 >  
 >기술 스택:  
->Java 8 / Spring Framework / Spring MVC / MySQL / Mybatis /  SQL Developer / mobaxterm
+>Java 8 / Spring Framework / Spring MVC / MySQL / Mybatis / SQL Developer / mobaxterm
 >
 >HTML / CSS / JQuery / JSON / BootStrap
 >  
@@ -36,6 +36,6 @@
 >개발 기간: 2021.12.1 ~ 2021.12.9
 >  
 >기술 스택:  
->Java 8 / Oracle Database / Java FX / SceneBuilder
+>Java 8 / Oracle Database / SQL Developer / Java FX / SceneBuilder
 >  
 >[프로젝트 상세 설명](https://github.com/tjdtls690/miniProject) 참고
