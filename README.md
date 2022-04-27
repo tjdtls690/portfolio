@@ -10,8 +10,8 @@
 
 ## :pushpin: Contact
 - 이메일: tjdtls690@gmail.com
-- 블로그: <https://tjdtls690.github.io/>{:target="_blank"}
-- 깃헙: <https://github.com/tjdtls690>{:target="_blank"}
+- 블로그: https://tjdtls690.github.io/
+- 깃헙: https://github.com/tjdtls690
 
 </br>
 
