@@ -32,7 +32,7 @@
 >NIO non-blocking 통신 기반 채팅 프로그램  (개인 프로젝트)  
 >개발 기간: 2021.12.1 ~ 2021.12.9
 >
->[포트폴리오 PDF 자료 ](/Toy_Project(신준혁).pdf)
+>[포트폴리오 PDF 자료 미리보기](/Toy_Project(신준혁).pdf)
 >  
 >기술 스택:  
 >Java 8 / Oracle Database / Java FX / SceneBuilder
