@@ -10,6 +10,8 @@
 
 </br>
 
+![](https://zuminternet.github.io/images/portal/post/2019-04-22-ZUM-Pilot-integer/final_erd.png)
+
 ## :pushpin: Contact
 - 이메일: tjdtls690@gmail.com
 - 블로그: https://tjdtls690.github.io/
