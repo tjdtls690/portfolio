@@ -19,6 +19,8 @@
 ### 1. [Salad It](http://ec2-13-125-186-247.ap-northeast-2.compute.amazonaws.com/lastSalad/main.do)
 >건강식 품목별 판매 서비스 (팀 프로젝트)  
 >개발 기간: 2022.2.18 ~ 2022.3.30
+>
+>[포트폴리오 PDF 자료 미리보기](/Team_Project (Salad It).pdf)
 >  
 >기술 스택:  
 >Java 8 / Spring Framework / MySQL / Mybatis / BootStrap / SQLDeveloper
