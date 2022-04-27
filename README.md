@@ -29,7 +29,7 @@
 
 ---
 
-### 2. Story Chatting Program
+### 2. Story
 >NIO non-blocking 통신 기반 채팅 프로그램  (개인 프로젝트)  
 >개발 기간: 2021.12.1 ~ 2021.12.9
 >  
