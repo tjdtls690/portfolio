@@ -10,8 +10,6 @@
 
 </br>
 
-![](https://tjdtls690.github.io/assets/img/github_img/main_erd.PNG)
-
 ## :pushpin: Contact
 - 이메일: tjdtls690@gmail.com
 - 블로그: https://tjdtls690.github.io/
