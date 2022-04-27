@@ -16,7 +16,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [Salad It](http://ec2-13-125-186-247.ap-northeast-2.compute.amazonaws.com/lastSalad/main.do)
+### 1. [Salad It](http://ec2-13-125-186-247.ap-northeast-2.compute.amazonaws.com/lastSalad/main.do){:target="_blank"}
 >건강식 품목별 판매 서비스 (팀 프로젝트)  
 >개발 기간: 2022.2.18 ~ 2022.3.30
 >  
