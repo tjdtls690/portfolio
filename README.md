@@ -20,7 +20,7 @@
 ## :pushpin: Projects
 ### 1. Salad It
 >건강식 품목별 판매 서비스 (팀 프로젝트)  
->개발 기간: 2022.2.18 ~ 2022.3.30
+>개발 기간: 2022.2.18 ~ 2022.3.30 (개발 4개월차)
 >  
 >기술 스택:  
 >Java 8 / Spring Framework / Spring MVC / MySQL / Mybatis / SQL Developer / mobaxterm
@@ -33,7 +33,7 @@
 
 ### 2. Story
 >NIO non-blocking 통신 기반 채팅 프로그램  (개인 프로젝트)  
->개발 기간: 2021.12.1 ~ 2021.12.9
+>개발 기간: 2021.12.1 ~ 2021.12.9 (개발 1개월차)
 >  
 >기술 스택:  
 >Java 8 / Oracle Database / SQL Developer / Java FX / SceneBuilder
