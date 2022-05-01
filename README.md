@@ -26,7 +26,7 @@
 >Java 8 / Spring Framework / Spring MVC / MySQL / Mybatis / SQL Developer / mobaxterm <br/>
 >HTML / CSS / JQuery / JSON / BootStrap
 >  
->[프로젝트 상세 설명](https://github.com/tjdtls690/mainProject) 참고
+>[프로젝트 상세 설명](https://github.com/tjdtls690/saladit) 참고
 
 ---
 
