@@ -30,3 +30,11 @@
 
 ---
 
+### 2. Story
+>NIO non-blocking 통신 기반 채팅 프로그램  (개인 프로젝트)  
+>개발 기간: 2021.12.1 ~ 2021.12.9 (개발 1개월차)
+>  
+>기술 스택:  
+>Java 8 / Oracle Database / SQL Developer / Java FX / SceneBuilder
+>  
+>[프로젝트 상세 설명](https://github.com/tjdtls690/miniProject) 참고
