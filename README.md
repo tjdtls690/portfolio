@@ -24,7 +24,8 @@
 >  
 >기술 스택:  
 >Java 8 / Spring MVC / MySQL / Mybatis / mobaxterm <br/>
->HTML / CSS / JQuery / JSON / BootStrap
+>HTML / CSS / JQuery / JSON / BootStrap <br/>
+>AWS - EC2, S3, RDS
 >  
 >[프로젝트 상세 설명](https://github.com/tjdtls690/saladit) 참고
 
