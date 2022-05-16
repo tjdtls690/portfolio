@@ -12,8 +12,8 @@
 
 ## :pushpin: Contact
 - 이메일: tjdtls690@gmail.com
-- 블로그: https://tjdtls690.github.io/
-- 깃헙: https://github.com/tjdtls690
+- 블로그: [https://tjdtls690.github.io/](https://bit.ly/39qNy9N)
+- 깃헙: [https://github.com/tjdtls690](https://bit.ly/3Psa7Ma)
 
 </br>
 
