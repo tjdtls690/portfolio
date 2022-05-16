@@ -38,4 +38,4 @@
 >기술 스택:  
 >Java 8 / Oracle Database / Java FX / SceneBuilder
 >  
->[프로젝트 상세 설명](https://github.com/tjdtls690/Story) 참고
+>[프로젝트 상세 설명](https://bit.ly/3wqm39L) 참고
