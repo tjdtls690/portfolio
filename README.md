@@ -27,7 +27,7 @@
 >HTML / CSS / JQuery / JSON / BootStrap <br/>
 >AWS - EC2, S3, RDS
 >  
->[프로젝트 상세 설명](https://github.com/tjdtls690/saladit) 참고
+>[프로젝트 상세 설명](https://bit.ly/3yBfrXh) 참고
 
 ---
 
